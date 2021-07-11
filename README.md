@@ -43,7 +43,7 @@ Business proposal to the election commission on how this script can be used—wi
                  file_to_save = os.path.join("analysis", "newresult.txt")
       </code>
       
-      - Line 49 or 52 : Redirect row[ ], if data header is not line up as 0:Ballot ID, 1:County, 3:Candidate
+      - Line 49 or 52 : Redirect row[ ], if data header is not line up as 0:Ballot ID, 1:County, 2:Candidate
       </code>
         
         
