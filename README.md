@@ -31,7 +31,7 @@ The analysis of the election show that:
   - Candidate 2 Diana DeGette, who received "73.8%" of the vote and "306,055" number of votes.
 
 
-## Challenge Summary
+## Summary
 Business proposal to the election commission on how this script can be used—with some modifications—for any election.
    - This script can be modified for other election to analysis the result by editing the following
       - Line 9 or 11 : Substitute new data path or export result in different file
