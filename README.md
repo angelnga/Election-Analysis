@@ -17,14 +17,12 @@ A Colorado Board of Elections employee has given the following tasks to complete
 ![result](election_analysis.png)<br>
 The analysis of the election show that:
 - There were "369,711" votes cast in the election.
-
 - The county result were:
    - Jefferson received "10.5%" of the vote and "38,855" number of votes.
    - Denver received "82.8%" of the vote and "306,055" number of votes.
    - Arapahoe received "6.7%" of the vote and "24,801" number of votes. 
 - The largest numver of votes was:
    -  Denver with "82.8%" of vote and "306,055" number of votes.
-
 - The candidate result were: 
    - Candidate 1 Charles Casper Stockham received "23.0%" of the vote and "85,213" number of votes.
    - Candidate 2 Diana DeGette received "73.8%" of the vote and "272,892" number of votes.
