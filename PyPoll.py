@@ -101,6 +101,14 @@ with open(file_to_save, "w") as txt_file:
     txt_file.write(winning_candidate_summary)
 
 
+# 1r. Print the total votes.
+print(total_votes)
+
+# 2r. Print the candidate list.
+print(candidate_options)
+
+# 3r.Print the candidate vote dictionary.
+print(candidate_votes)
 
 
 
